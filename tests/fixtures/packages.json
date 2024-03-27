@@ -1,0 +1,74 @@
+[
+  {
+    "tests_packages": [
+      {
+        "origin": "Buenos Aires",
+        "destination": "Córdoba",
+        "client_str": "Juan Pérez"
+      },
+      {
+        "origin": "Rosario",
+        "destination": "Mendoza",
+        "client_str": "María García"
+      },
+      {
+        "origin": "La Plata",
+        "destination": "San Miguel de Tucumán",
+        "client_str": "Carlos Rodríguez"
+      }
+    ],
+    "demo_packages": [
+      {
+        "origin": "Buenos Aires",
+        "destination": "Córdoba",
+        "client_str": "Juan Pérez",
+        "date": "01/01/2024"
+      },
+      {
+        "origin": "Rosario",
+        "destination": "Mendoza",
+        "client_str": "Juan Pérez",
+        "date": "02/01/2024"
+      },
+      {
+        "origin": "La Plata",
+        "destination": "San Miguel de Tucumán",
+        "client_str": "Juan Pérez"
+      },
+      {
+        "origin": "Buenos Aires",
+        "destination": "Mendoza",
+        "client_str": "María García",
+        "date": "03/01/2024"
+      },
+      {
+        "origin": "Rosario",
+        "destination": "San Miguel de Tucumán",
+        "client_str": "María García",
+        "date": "04/01/2024"
+      },
+      {
+        "origin": "La Plata",
+        "destination": "Córdoba",
+        "client_str": "María García"
+      },
+      {
+        "origin": "Buenos Aires",
+        "destination": "San Miguel de Tucumán",
+        "client_str": "Carlos Rodríguez",
+        "date": "05/01/2024"
+      },
+      {
+        "origin": "Rosario",
+        "destination": "Córdoba",
+        "client_str": "Carlos Rodríguez",
+        "date": "06/01/2024"
+      },
+      {
+        "origin": "La Plata",
+        "destination": "Mendoza",
+        "client_str": "Carlos Rodríguez"
+      }
+    ]
+  }
+]
